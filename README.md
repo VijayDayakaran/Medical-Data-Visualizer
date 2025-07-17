@@ -1,6 +1,6 @@
 # Medical Data Visualizer
 
-This project analyzes medical examination data and visualizes key health metrics to identify patterns related to cardiovascular disease. It is part of the [FreeCodeCamp Data Analysis with Python Projects](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer/).
+This project analyzes medical examination data and visualizes key health metrics to identify patterns related to cardiovascular disease. It is part of the <a href="https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer/" target="_blank">FreeCodeCamp Data Analysis with Python Projects</a>.
 
 ## Dataset
 
@@ -24,3 +24,5 @@ Output: `catplot.png`
 Shows the correlation matrix between features after cleaning the dataset (removing incorrect or outlier values).
 
 Output: `heatmap.png`
+
+## Built by Vijay Dayakaran
